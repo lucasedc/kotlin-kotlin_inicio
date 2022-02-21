@@ -8,6 +8,8 @@ class MainTest{
 
     @Test
     fun portariaTest(){
+
+
         Assert.assertEquals(portaria(15,"",""),"Negado.")
         Assert.assertEquals(portaria(20,"indeterminado",""),"Negado.")
         Assert.assertEquals(portaria(20,"comum",""),"Negado.")
