@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/kotlin.iml" filepath="$PROJECT_DIR$/kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TesteUnitario.iml" filepath="$PROJECT_DIR$/.idea/modules/TesteUnitario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TesteUnitario_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TesteUnitario_main.iml" group="TesteUnitario" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TesteUnitario_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TesteUnitario_test.iml" group="TesteUnitario" />
     </modules>
   </component>
 </project>
